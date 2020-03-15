@@ -1,4 +1,4 @@
-# OptionenFutures
+# Optionen auf Futures
 Optionen auf Futures ist ein Visual Basic .NET Programm, mit dem du folgende Berechnungen durchführen und mehr über deren Grundlagen lernen kannst:
 
  - Cox Ross Rubinstein
