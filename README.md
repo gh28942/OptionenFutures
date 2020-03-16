@@ -13,7 +13,7 @@ Hier gibt es einen praktischen *Windows Installer* für das Programm: https://ww
  
 ![Splashscreen](screenshot/of-screenshot-1.jpg?raw=true "Splashscreen")
 
-<img src="screenshot/of-screenshot-1.jpgf">
+<img src="/screenshot/of-screenshot-1.jpgf">
 Splashscreen, den man sieht bevor das Programm startet.
 
 
