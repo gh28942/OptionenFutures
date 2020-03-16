@@ -11,21 +11,18 @@ Hier gibt es einen praktischen *Windows Installer* für das Programm: https://ww
 
 <p align="center">
  
-![Splashscreen](screenshot/of-screenshot-1.jpg?raw=true "Splashscreen")
-
 <img src="https://raw.githubusercontent.com/gh28942/OptionenFutures/master/screenshot/of-screenshot-1.jpg">
 Splashscreen, den man sieht bevor das Programm startet.
 
-
-![Hauptmenü](screenshot/of-screenshot-2.jpg?raw=true "Hauptmenü")
+<img src="https://raw.githubusercontent.com/gh28942/OptionenFutures/master/screenshot/of-screenshot-2.jpg">
 Hauptmenü mit Optionen.
 <br><br>
 
-![Informationen über Berechnungsmethoden](screenshot/of-screenshot-3.jpg?raw=true "Informationen über Berechnungsmethoden")
+<img src="https://raw.githubusercontent.com/gh28942/OptionenFutures/master/screenshot/of-screenshot-3.jpg">
 Menü mit Informationen über Berechnungsmethoden.
 <br><br>
 
-![Cox Ross Rubinstein Berechnung](screenshot/of-screenshot-4.jpg?raw=true "Cox Ross Rubinstein Berechnung")
+<img src="https://raw.githubusercontent.com/gh28942/OptionenFutures/master/screenshot/of-screenshot-4.jpg">
 Fenster für die Cox Ross Rubinstein Berechnung.
 <br><br>
 </p>
