@@ -10,10 +10,10 @@ Hier gibt es einen praktischen *Windows Installer* für das Programm: https://ww
 
 
 <p align="center">
-<br><br>
  
 ![Splashscreen](screenshot/of-screenshot-1.jpg?raw=true "Splashscreen")
 
+<img src="screenshot/of-screenshot-1.jpgf">
 Splashscreen, den man sieht bevor das Programm startet.
 
 
