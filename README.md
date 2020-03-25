@@ -1,10 +1,12 @@
 # Optionen auf Futures
 Optionen auf Futures ist ein Visual Basic .NET Programm, mit dem du folgende Berechnungen durchführen und mehr über deren Grundlagen lernen kannst:
 
- - Cox Ross Rubinstein
- - Optionen auf einen Index-Future
- - Optionen auf einen Zins-Future
- - Optionen auf einen Bond-Future
+<ul>
+<li>Cox Ross Rubinstein</li>
+<li>Optionen auf einen Index-Future</li>
+<li>Optionen auf einen Zins-Future</li>
+<li>Optionen auf einen Bond-Future</li>
+</ul>
 
 Hier gibt es einen praktischen *Windows Installer* für das Programm: https://www.mediafire.com/file/4jwlzq2ercpg78i/optionenFutures-setup.exe/file
 <br><br>
